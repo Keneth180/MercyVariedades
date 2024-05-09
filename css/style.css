@@ -129,13 +129,13 @@ header .header-text{
 }
 .galeria-prod{
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-around;
     flex-wrap: wrap;
 }
 .imagen-prod{
-    width: 24%;
-    height: 200px;
-    margin-bottom: 10px;
+    width: 20%;
+    height: 220px;
+    margin-bottom: 8px;
     overflow: hidden;
     position: relative;
     cursor: pointer;
@@ -226,8 +226,8 @@ footer{
 
 #beerCarousel{
     background: linear-gradient(to right, hsla(302, 73%, 70%, 0.548), hsla(25, 82%, 59%, 0.548));    width: 65%;
-    max-width: 70%;
-    max-height: 350px;
+    max-width: 50%;
+    max-height: 300px;
     border-radius: 12%;
     font-size: 120%;
     position: relative;
@@ -242,8 +242,8 @@ footer{
 }
 .carousel-item img{
     align-items: flex-start;
-    width: 320px;
-    height: 320px;
+    width: 280px;
+    height: 280px;
 }
 .carousel-item h4{
     text-align: center;
