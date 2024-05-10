@@ -222,7 +222,7 @@ footer{
     text-align: center;
     padding-top: 10px;
 }
-/*  
+
 #container{
     align-content: center;
     align-items: center;
@@ -231,7 +231,7 @@ footer{
     max-width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-}*/
+}
 
 #beerCarousel{
     background: linear-gradient(to right, hsla(302, 73%, 70%, 0.548), hsla(25, 82%, 59%, 0.548));    width: 65%;
