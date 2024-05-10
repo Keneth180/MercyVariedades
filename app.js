@@ -125,7 +125,9 @@ const actualizarCarrito = () => {
         <button onclick="eliminarDelCarrito(${prod.id})" class="boton-eliminar"><i class="fas fa-trash-alt"></i></button>
         
         `
-        cadtext+="["+prod.cantidad+"]"+ prod.nombre+", ";
+        if(LongArray=i-1){
+            cadtext+="["+prod.cantidad+"]"+ prod.nombre+", ";
+        }
         i++;
 
         if(LongArray==i){
