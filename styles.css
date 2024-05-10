@@ -50,6 +50,10 @@ h1 {
     justify-content: space-between;
     flex-wrap: wrap;
     justify-items: stretch;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 100px;
 }
 
 p {
@@ -63,6 +67,10 @@ p {
     box-shadow: 2px 6px 3px 3px rgba(0, 0, 0, 0.3);
     justify-content: space-between;
     justify-items: stretch;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 100px;
 }
 .precioProducto {
     font-weight: 700;
