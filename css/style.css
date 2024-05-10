@@ -121,6 +121,10 @@ header .header-text{
 }
 
 .cont-prod{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 100px;
     background-color: #f2f2f2;
 }
 
