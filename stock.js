@@ -1,5 +1,5 @@
 let stockProductos = [
-    {id: 9, nombre: "Collar de respiración, Alivio inmediato",  cantidad: 1,  precio: 5800,  img: './resources/A9.jpg'},
+    {id: 9, nombre: "Collar de respiración, Alivio inmediato",  cantidad: 1,  precio: 5800,  img: './resources/A9.jpeg'},
     {id: 10, nombre: "Tableta de limpieza universal  para cerámicas piso de baldosa,fragancia",  cantidad: 1,  precio: 5800,  img: './resources/A10.jpg'},
     {id: 11, nombre: "Ropa para perro",  cantidad: 1,  precio: 5800,  img: './resources/A11.jpg'},
     {id: 12, nombre: "Dispensadora  para teñir cabello",  cantidad: 1,  precio: 5800,  img: './resources/A12.jpg'},
