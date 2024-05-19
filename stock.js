@@ -11,7 +11,7 @@ let stockProductos = [
     {id: 10, nombre: "Guantes para jardín con garras seguros para trabajo",  cantidad: 1,  precio: 5800,  img: './resources/A18.jpg'},
     {id: 11, nombre: "Coleta para mujeres con clip de garra medidas 60 96 cm",  cantidad: 1,  precio: 5800,  img: './resources/A19.jpg'},
     {id: 12, nombre: "Anillos dorados con elegantes piedras",  cantidad: 1,  precio: 5800,  img: './resources/A20.jpg'},
-    {id: 13, nombre: Tijeras de cocina en acero inoxidable"",  cantidad: 1,  precio: 5800,  img: './resources/A21.jpg'},
+    {id: 13, nombre: "Tijeras de cocina en acero inoxidable"",  cantidad: 1,  precio: 5800,  img: './resources/A21.jpg'},
     {id: 14, nombre: "Cepillo para zapatos multinacional",  cantidad: 1,  precio: 5800,  img: './resources/A22.jpg'},
     {id: 15, nombre: "Pulsera elegante  con anillo",  cantidad: 1,  precio: 5800,  img: './resources/A23.jpg'},
     {id: 16, nombre: "Accesorio nupcial de lujo  pulsera más anillo",  cantidad: 1,  precio: 5800,  img: './resources/A24.jpg'},
