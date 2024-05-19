@@ -28,5 +28,5 @@ let stockProductos = [
     {id: 27, nombre: "Risador de pestaña eléctrico",  cantidad: 1,  precio: 5800,  img: './resources/A35.jpg'},
     {id: 28, nombre: "Cepillo de ducha en silicona",  cantidad: 1,  precio: 5800,  img: './resources/A36.jpg'},
     {id: 29, nombre: "Cepillo  de aseo",  cantidad: 1,  precio: 5800,  img: './resources/37.jpg'},
-    {id: 30, nombre: "Pistola de agua para lavar motocicletas",  cantidad: 1,  precio: 5800,  img: './resources/A38.jpg'}
+    {id: 30, nombre: "Pistola de agua para lavar motocicletas",  cantidad: 1,  precio: 5800,  img: './resources/A38.jpg'},
 ]
