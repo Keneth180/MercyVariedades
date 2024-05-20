@@ -8,5 +8,15 @@ let stockProductos = [
     {id: 7, nombre: "Desescamador de pescado",  cantidad: 1,  precio: 5800,  img: './resources/A15.jpg'},
     {id: 8, nombre: "Granos de adhesivo para rellenar espacios",  cantidad: 1,  precio: 5800,  img: './resources/A16.jpg'},
     {id: 9, nombre: "Capa de paraguas para cortar el cabello en forma de paraguas",  cantidad: 1,  precio: 5800,  img: './resources/A17.jpg'},
-    {id: 10, nombre: "Guantes para jardín con garras seguros para trabajo",  cantidad: 1,  precio: 5800,  img: './resources/A18.jpg'},
+    {id: 10, nombre: "Guantes para jardín con garras seguros para trabajo",  cantidad: 1,  precio: 5800,  img: './resources/A18.jpg'}, {id: 11, nombre: "Coleta para mujeres con clip de garra medidas 60 96 cm",  cantidad: 1,  precio: 5800,  img: './resources/A19.jpg'},
+    {id: 12, nombre: "Anillos dorados con elegantes piedras",  cantidad: 1,  precio: 5800,  img: './resources/A20.jpg'},
+    {id: 13, nombre: "Tijeras de cocina en acero inoxidable"",  cantidad: 1,  precio: 5800,  img: './resources/A21.jpg'},
+    {id: 14, nombre: "Cepillo para zapatos multinacional",  cantidad: 1,  precio: 5800,  img: './resources/A22.jpg'},
+    {id: 15, nombre: "Pulsera elegante  con anillo",  cantidad: 1,  precio: 5800,  img: './resources/A23.jpg'},
+    {id: 16, nombre: "Accesorio nupcial de lujo  pulsera más anillo",  cantidad: 1,  precio: 5800,  img: './resources/A24.jpg'},
+    {id: 17, nombre: "Anillos con elegantes piedras",  cantidad: 1,  precio: 5800,  img: './resources/A25.jpg'},
+    {id: 18, nombre: "Colador para aceite de freir",  cantidad: 1,  precio: 5800,  img: './resources/A26.jpg'},
+    {id: 19, nombre: "Masajeador de cuello y espalda con terapia magnética",  cantidad: 1,  precio: 5800,  img: './resources/A27.jpg'},
+    {id: 20, nombre: "Reloj para hombres",  cantidad: 1,  precio: 5800,  img: './resources/A28.jpg'},
+ 
 ]
