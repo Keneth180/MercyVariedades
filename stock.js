@@ -17,6 +17,15 @@ let stockProductos = [
     {id: 17, nombre: "Anillos con elegantes piedras",  cantidad: 1,  precio: 5800,  img: './resources/A25.jpg'},
     {id: 18, nombre: "Colador para aceite de freir",  cantidad: 1,  precio: 5800,  img: './resources/A26.jpg'},
     {id: 19, nombre: "Masajeador de cuello y espalda con terapia magnética",  cantidad: 1,  precio: 5800,  img: './resources/A27.jpg'},
-    {id: 20, nombre: "Reloj para hombres",  cantidad: 1,  precio: 5800,  img: './resources/A28.jpg'},
+    {id: 20, nombre: "Reloj para hombres",  cantidad: 1,  precio: 5800,  img: './resources/A28.jpg'},   {id: 21, nombre: "Anillo en forma de dragón  para hombres",  cantidad: 1,  precio: 5800,  img: './resources/A29.jpg'},
+    {id: 22, nombre: "Grifo de bidé de mano para inodoro",  cantidad: 1,  precio: 5800,  img: './resources/A30.jpg'},
+    {id: 23, nombre: "Pieza ajustable  para tejer",  cantidad: 1,  precio: 5800,  img: './resources/A31.jpg'},
+    {id: 24, nombre: "Protector de dedo antiguo",  cantidad: 1,  precio: 5800,  img: './resources/A32.jpg'},
+    {id: 25, nombre: "Soporte de insiencio de reflujo de paisaje de montaña",  cantidad: 1,  precio: 5800,  img: './resources/A33.jpg'},
+    {id: 26, nombre: "Conos de insiencio  de diferente fragancia",  cantidad: 1,  precio: 5800,  img: './resources/A34.jpg'},
+    {id: 27, nombre: "Risador de pestaña eléctrico",  cantidad: 1,  precio: 5800,  img: './resources/A35.jpg'},
+    {id: 28, nombre: "Cepillo de ducha en silicona",  cantidad: 1,  precio: 5800,  img: './resources/A36.jpg'},
+    {id: 29, nombre: "Cepillo  de aseo",  cantidad: 1,  precio: 5800,  img: './resources/37.jpg'},
+    {id: 30, nombre: "Pistola de agua para lavar motocicletas",  cantidad: 1,  precio: 5800,  img: './resources/A38.jpg'},
  
 ]
